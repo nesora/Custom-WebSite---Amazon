@@ -18,7 +18,7 @@ export const data = {
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 120,
-      countInStock: 10,
+      countInStock: 0,
       brand: 'Addidas',
       rating: 4.5,
       numReviews: 10,
