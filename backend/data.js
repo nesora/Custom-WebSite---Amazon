@@ -1,6 +1,7 @@
 export const data = {
   products: [
     {
+      _id: '1',
       name: 'Nike Slim Shirt',
       slug: 'nike-slim-shirt',
       category: 'Shirts',
@@ -13,6 +14,7 @@ export const data = {
       description: 'high quality shirt',
     },
     {
+      _id: '2',
       name: 'Addidas Slim Shirt',
       slug: 'addidas-slim-shirt',
       category: 'Shirts',
@@ -25,6 +27,7 @@ export const data = {
       description: 'high quality shirt',
     },
     {
+      _id: '3',
       name: 'Puma Slim Shirt',
       slug: 'puma-slim-shirt',
       category: 'Shirts',
@@ -37,6 +40,7 @@ export const data = {
       description: 'high quality shirt',
     },
     {
+      _id: '4',
       name: 'Polo Slim Shirt',
       slug: 'polo-slim-shirt',
       category: 'Shirts',
